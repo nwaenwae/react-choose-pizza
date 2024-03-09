@@ -1,3 +1,5 @@
+## Project Description
+
 This project was created to test React Framer Motion.
 
 ## Available Scripts
